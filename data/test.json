@@ -1,0 +1,35 @@
+{
+	"Root": "Parent",
+	"Children": {
+		"Children1": {
+			"ChildName": "Child - 1",
+			"Children": {
+				"GrandChildren1": {
+					"ChildName": "Grand Child - 1",
+					"Children": null
+				},
+				"GrandChildren2": {
+					"ChildName": "Grand Child - 2",
+					"Children": null
+				}
+			}
+		},
+		"Children2": {
+			"ChildName": "Child - 2",
+			"Children": {
+				"GrandChildren1": {
+					"ChildName": "Grand Child - 1",
+					"Children": null
+				},
+				"GrandChildren2": {
+					"ChildName": "Grand Child - 2",
+					"Children": null
+				},
+				"GrandChildre3": {
+					"ChildName": "Grand Child - 3",
+					"Children": null
+				}
+			}
+		}
+	}
+}

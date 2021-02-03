@@ -1,0 +1,241 @@
+{
+	"Resume": {
+		"Contact": {
+			"Name": "Contact Info",
+			"Details": {
+				"LegalName": {
+					"First": "Yaniv",
+					"Middle": "Joseph",
+					"Last": "Alfasy"
+				},
+				"Address": {
+					"Address_Line_1": "4944 Cass St.",
+					"Address_Line_2": "Unit 1208",
+					"City": "San Diego",
+					"State": "California",
+					"Zip": "92109"
+				},
+				"Email": {
+					"Primary": "yaniv@yanivalfasy.com"
+				},
+				"Phone": {
+					"Mobile": "619-312-7671"
+				}
+			}
+		},
+		"Professional Summary": {
+			"Description": "Summary of Professional Experience",
+			"Details": {
+				"Title": "15 Year+ Financial Expert, Corporate Strategist, and Technology Enthusiast",
+				"Description": "\tProven finance expertise and leadership in Financial Planning and Analysis, P&L Management and Financial Operations, and Strategic Planning and Corporate Development. \r\n\t\tQuickly promoted, consistently over-achieved, in multiple roles at one of the fast-growing, global tech communication companies. \r\n\t\t1.\tP&L Management and Leadership: Successfully provided financial leadership for two high-growth, high-tech business P&Ls with $50-100M in revenue, $500M-$1B in enterprise value,\r\n\t\t10+ direct reports. Served on the executive leadership teams of the businesses, reported monthly, quarterly, and yearly financials to corporate executive management. Met and exceeded Revenue, EBITDA, and growth KPIs every year. Rebuilt and structured data-driven, real-time forecasting using customer demand data from call-centers, portals and installation logs, usage data from provision systems, funnel data from sales force, and future demand and supply data from geospatial analysis using demographic data to generate TAM and SAM. \r\n\t\t2.\tCorporate Development and Strategic Financial Planning and Analysis: Built and grew a successful corporate development team comprised of 10 skilled analysts, managers, and rotational analysts. The team was responsible for all financial modeling, integration, planning, and analysis of all major acquisitions and strategic investments ranging from $100M to $2B. Integrated the complex analysis into FP&A\/Executive packages, consisting of internal and external executive and investor presentation, corporate financial models for equity analysis, strategic planning, board presentations, and long-term financial planning and systems. Championed data-driven models for market demand, subscriber acquisition, product mix, usage, churn, fixed and variable opex and capex, and maintained, documented, and developed processes to ensure on-going modeling, analytics, and data robustness."
+			}
+		},
+		"Professional Experience": {
+			"Description": "Work Experiences",
+			"Details": [
+				{
+					"Title": "Director of Finance - Global Business Soluations",
+					"Company": "Viasat Inc.",
+					"Start_Date": "05/01/2017",
+					"End_Date": "05/01/2019",
+					"Location_City": "College Station",
+					"Location_State": "Texas",
+					"Responsibilites": "Financial Leader for Global Business Systems \u2013 a $100M \\\/ Yr., fast-growing and strategic Enterprise Business within Viasat Inc:\r\n\t\t\t\t\t- Owned P&L for business which spanned multiple countries, multiple lines of business (commercial\/government), and a growing subscriber business. Successfully grew the business through deep data analysis, financial analysis and modeling, and financial forecasting for executive decision-making.   \r\n\t\t\t\t\t- Responsible for all financial statement reporting, P&L analysis, cost management, new revenue, and financial decision-making; managing team of over 10 analysts, accountants, and staff to meet major reporting to exec team.\r\n\t\t\t\t\t- Excelled in Financial Planning and Analysis \u2013 building team of analysts to deploy new forecasting models, variance analysis, and reporting to company CFO, COO, and CEO.  \r\n\t\t\t\t\t- Utilized industry-standard metrics for subscriber acquisition & retention: e.g., LTV, CAC, Churn and Retention analysis, sub rollforward, ARPU, variable and fixed cost per user. \r\n\t\t\t\t\t-  Exceeded all key targets on sales and customer growth by >20%. Improved EBITDA > 30%. Achieved this though new subscriber metrics, forecasting, and templates for sales and ops team. For example, implemented targeted pricing and commissions\/quotas alignment using customer LTV model along with more accurate subscriber forecast, which improved cost management through optimized customer retention. \r\n\t\t\t\t\t- Extended successful practices to other businesses outside of the Global Business Services: to both 1M subscriber consumer business, and commercial air business.\r\n\t\t\t\t\t- Created key new templates, processes, for planning, proposal, analysis, and presentation; used to renegotiate critical gov contract worth over $50M.\r\n\t\t\t\t\t- Created strategic 5-year plan, with detailed forecast, individual business financial statements (IS, BS, and CF), with scenario analysis (high, baseline, low), risk analysis (sensitivity), and resulting independent enterprise value specific to business. \r\n\t\t\t\t\t- Was first to create and deploy real-time financial reporting and forecasting. Integrated financial reporting and forecast model with large central systems and data lakes, generating automated updates through imported data. This real-time reporting (not tied to monthly reporting) and allowed executive access to historical and forecasted real time revenue, costs, profitability for the first time. In addition, forecasting models utilized CRM data (Salesforce, Oracle), marketing \/ commission data (Marketo), call center transcripts\/logs, logistics data, and usage provisioning systems (tableau, Splunk, BI).\r\n\t\t\t\t\t- Created corporate-wide metrics benchmarking shared assets (satellite resources, gateways, and data centers) and integrated these across all businesses. \r\n\t\t\t\t\t- Developed individual long-term strategies, including long term sales team growth, developed 2 new markets, seeded 2 acquisitions, and renegotiated two largest contracts.\r\n\t\t\t\t\t- Lowered costs through deep customer analytics, using pre-sale data analytics to lower subscriber acquisition cost, customer churn, increasing LTV over 30%.\r\n\t\t\t\t\t- Developed succession leadership, armed with critical strategy, executive and cross-functional relationships, and 15 years of company \/ industry insights.\r\n\t\t\t\t\tDirector of Corporate Development \/ Strategic Finance\r\n\t\t\t\t\tViasat Inc. in Carlsbad, CA from Nov 2012 \u2013 May 2017 \r\n\t\t\t\t\tAs Director, built a team to seed, model, negotiate acquisitions, major investments, partnerships, and large strategic commercial and government proposals: \r\n\t\t\t\t\t- Responsible for all corporate development and strategic finance efforts for seeding, negotiating, integrating a variety of transactions, acquisitions, strategic investments, and large commercial and government contracts totaling more than $5B in wins; including 7 acquisitions,\r\n\t\t\t\t\t\t3 satellite developments\/builds,\r\n\t\t\t\t\t\t1 satellite constellation,\r\n\t\t\t\t\t\t5 global gov\/comm satellite procurement wins (Australia, Europe, South America, Mexico, Canada).\r\n\t\t\t\t\t- Responsible for integrated modeling of return on investment (ROI) for all major procurement, technical trades, market demand sensitivity, product mix, pricing elasticity, and go-to-market sales and distribution strategy for each billion-dollar satellite investment independently and comprehensively.\r\n\t\t\t\t\t- Managed \/ developed a team of skilled managers and analysts (ex. management consultants and investment bankers) to quickly develop business plans, financial models, analyses, and executive presentations for all strategic financial decisions and integrate them into the corporate financial plan.\r\n\t\t\t\t\t- Managed interdepartmental budgeting, planning, and forecasting, creating scenario analyses, risk evaluation, and executive presentations; working with FP&A, business partner GMs and finance leaders, executive management, and the CFO.\r\n\t\t\t\t\t- Integrated finance and business development into executive negotiation, strategy, presentation, and successfully closed many high-value targets (see projects). \r\n\t\t\t\t\t- Successfully completed pre\/post-negotiation integration of finance teams, systems, due diligence, aligning incentives\/earnouts with long-term strategy.\r\n\t\t\t\t\t- Developed pricing strategy, using market research, competitive analysis (including competition modeling), and analyzed strategic tradeoffs.\r\n\t\t\t\t\t- Lead and managed the initial business plan for Viasat\u2019s key go-to-market in commercial air, developed business plans for products, markets, distribution in broadband segment, aided special government segment initiatives, and evaluated\/panned future markets.\r\n\t\t\t\t\t- Team was heavily integrated with Corporate Financial planning and Analysis, owning 50% of key forecasting models, sensitivity\/risk analysis, key drivers and assumptions, variance, and other scenario analysis. Using key metrics\/models, helped determine optimal capital structure, risk for earnings calls, board packages, and supported all business segments FP&A and finance departments for quarterly \/ annual strategic planning \/ forecasting.\r\n\t\t\t\t\t- Analyzed large executive strategic options to capital and risk: including partnerships, spin-off, technical trades, insurance, and equity tradeoffs."
+				},
+				{
+					"Title": "Director of Corporate Development and Strategic Finance",
+					"Company": "Viasat Inc.",
+					"Start_Date": "11/01/2012",
+					"End_Date": "05/01/2017",
+					"Location_City": "Carlsbad",
+					"Location_State": "California",
+					"Responsibilites": "As Director, built a team to seed, model, negotiate acquisitions, major investments, partnerships, and large strategic commercial and government proposals: \n\t- Responsible for all corporate development and strategic finance efforts for seeding, negotiating, integrating a variety of transactions, acquisitions, strategic investments, and large commercial and government contracts totaling more than $5B in wins; including 7 acquisitions, 3 satellite developments\/builds, 1 satellite constellation, 5 global gov\/comm satellite procurement wins (Australia, Europe, South America, Mexico, Canada).\r\n\t\t\t- Responsible for integrated modeling of return on investment (ROI) for all major procurement, technical trades, market demand sensitivity, product mix, pricing elasticity, and go-to-market sales and distribution strategy for each billion-dollar satellite investment independently and comprehensively.\r\n\t\t\t- Managed \/ developed a team of skilled managers and analysts (ex. management consultants and investment bankers) to quickly develop business plans, financial models, analyses, and executive presentations for all strategic financial decisions and integrate them into the corporate financial plan.\r\n\t\t\t- Managed interdepartmental budgeting, planning, and forecasting, creating scenario analyses, risk evaluation, and executive presentations; working with FP&A, business partner GMs and finance leaders, executive management, and the CFO.\r\n\t\t\t- Integrated finance and business development into executive negotiation, strategy, presentation, and successfully closed many high-value targets (see projects). \r\n\t\t\t- Successfully completed pre\/post-negotiation integration of finance teams, systems, due diligence, aligning incentives\/earnouts with long-term strategy.\r\n\t\t\t- Developed pricing strategy, using market research, competitive analysis (including competition modeling), and analyzed strategic tradeoffs.\r\n\t\t\t- Lead and managed the initial business plan for Viasat\u2019s key go-to-market in commercial air, developed business plans for products, markets, distribution in broadband segment, aided special government segment initiatives, and evaluated\/panned future markets.\r\n\t\t\t- Team was heavily integrated with Corporate Financial planning and Analysis, owning 50% of key forecasting models, sensitivity\/risk analysis, key drivers and assumptions, variance, and other scenario analysis. Using key metrics\/models, helped determine optimal capital structure, risk for earnings calls, board packages, and supported all business segments FP&A and finance departments for quarterly \/ annual strategic planning \/ forecasting.\r\n\t\t\t- Analyzed large executive strategic options to capital and risk: including partnerships, spin-off, technical trades, insurance, and equity tradeoffs."
+				},
+				{
+					"Title": "Director of Finance – Commercial Air",
+					"Company": "Viasat Inc.",
+					"Start_Date": "05/01/2015",
+					"End_Date": "05/01/2017",
+					"Location_City": "Carlsbad",
+					"Location_State": "California",
+					"Responsibilites": "Provided financial leadership to create, grow, and lead the successful market-leading commercial air business, enterprise value of $1B+, and market $5B / Yr.:\n\t- Was chosen to lead finance for Viasat\u2019s new, industry-changing commercial air business. Provided key initial financial leadership and guidance, financial models for key sales growth \u2013 which led to the business having the largest market share in the US Commercial Air Wi-Fi provider. \r\n\t\t\t- Created initial forecasting models, financial models for future markets, sales, costs driving comprehensive financial statements that were reported to management for the important high-margin, high-value business. \r\n\t\t\t- Worked with analytics and marketing teams to generated new metrics around millions of passengers and their average usage, revenue, take rate, total market size, and drove continuous improvement in knowledge around customer value and growth. \r\n\t\t\t- Worked with business development for sales funnel drivers, with new operations management for cost models, and drive standardization from departments. \r\n\t\t\t- Initiated new cross-functional teams to integrate new cost sharing for shared assets, labor, and other resources.\r\n\t\t\t- Developed risk analysis around large new proposals and wins as well as created the first standardized pricing model for business development to drive growth.\r\n\t\t\t- Managed team of analysts to create variance\/flux reports, KPI and benchmark analysis, competitive reports, and Analyzed and approved all financial investments.\r\n\t\t\t- Presented to executive management team at business area reviews and quarterly and annual financial and strategy updates.\r\n\t\t\t- Successfully helped drive business to lead all others in the industry in market share, service, customers, and pricing. Proudly created strategic leverage and customer (passenger) happiness, by setting industry standards in service and pricing around Viasat\u2019s competitive advantage, capacity throughput and pricing power."
+				},
+				{
+					"Title": "Manager – Financial Planning and Analysis",
+					"Company": "Viasat Inc.",
+					"Start_Date": "11/01/2007",
+					"End_Date": "11/01/2012",
+					"Location_City": "Carlsbad",
+					"Location_State": "California",
+					"Responsibilites": "Performed Advisory Services at Big Four Firm: \n\tManaged integration of long-range investment and strategic initiatives into Financial Plan: \n\t- Managed integration of long-range investment and strategic initiatives into Financial Plan: \r\n\t\t\t- Managed the integration for major investments ranging from $100M to $2B into strategic planning process.\r\n\t\t\t- Forecasted impact of large investments to corporate financial statements over long (15 to 20 year) life of investments. \r\n\t\t\t- Predicted demand using geospatial demographic data, marking analysis, industry reporting, and historical trend analysis.\r\n\t\t\t- Utilized and organized drivers for demand, pricing, product mix, usage, supply, variable and fixed capex and opex. \r\n\t\t\t- Performed sensitivity and scenario analysis on major drivers and reported major metrics to executive committee.\r\n\t\t\t- Created and presented long-range forecast: cash flow, balance sheet, income statement, key metrics including stock price, enterprise value, leverage ratios.\r\n\t\t\t- Built and integrated long-range independent project forecasts with DCF, NPV, IRR on projects.\t\t"
+				},
+				{
+					"Title": "Senior Associate",
+					"Company": "Deloitte.",
+					"Start_Date": "05/01/2004",
+					"End_Date": "11/01/2007",
+					"Location_City": "San Diego",
+					"Location_State": "California",
+					"Responsibilites": "- Managed Deloitte\u2019s San Diego venture capital clients, specializing in valuation of mortgages, derivatives, stock options, and retirement plans.\r\n\t\t\t- Participated in engagement with clients. Specialized in financial valuation analysis, was the only financial specialist in the San Diego region."
+				}
+			]
+		},
+		"Education": {
+			"Description": "Educational History",
+			"Details": [
+				{
+					"School": "University of California, Berkeley",
+					"City": "Berkeley",
+					"State": "California",
+					"Start": "08/01/2000",
+					"End": "05/01/2004",
+					"Degree": "Bachelors of Science",
+					"Major": "Business Management",
+					"GPA": "3.9",
+					"Extra_Curicular": [
+						{
+							"Description": "President/Officer of 3 Organizations (DFTS, Haas Business Association, TKE)"
+						},
+						{
+							"Description": "Taught 4 semesters of class on Equities and the Stock Market"
+						}
+					]
+				},
+				{
+					"School": "Stanford University",
+					"City": "Palo Alto",
+					"State": "California",
+					"Start": "11/01/2014",
+					"End": "05/01/2015",
+					"Degree": "Other",
+					"Major": "Executive Leadership Development",
+					"GPA": "NA",
+					"Extra_Curicular": [
+						{}
+					]
+				}
+			]
+		},
+		"Projects": {
+			"Description": "Notable Projects",
+			"Details": [
+				{
+					"Name": "Viasat-1,2, and 3 Constellation Business Plans",
+					"Value": "$1B+"
+				},
+				{
+					"Name": "Bid and Proposals",
+					"Value": "$300M"
+				},
+				{
+					"Name": "Commercial Air Business Model / JetBlue Proposal",
+					"Value": "$1B+"
+				},
+				{
+					"Name": "Global Business Solutions Executive",
+					"Value": "$100M Yr"
+				},
+				{
+					"Name": "Partnerships / Joint Ventures",
+					"Value": "$200M+"
+				},
+				{
+					"Name": "Loral Legal Settlement / Other",
+					"Value": "$200M+"
+				}
+			]
+		},
+		"Skills": {
+			"Description": "Notable Skills",
+			"Details": [
+				"Financial Modeling",
+				"Business Strategy",
+				"Strategic Planning",
+				"Financial Analysis",
+				"Financial Leadership",
+				"Financial Planning",
+				"Financial Reporting",
+				"Mergers and Acquisitions",
+				"Corporate Development",
+				"Business Development",
+				"Corporate Strategy",
+				"Strategic Finance",
+				"Joint Ventures",
+				"Strategic Partnerships",
+				"Reporting",
+				"KPIs",
+				"IRR",
+				"ROI",
+				"ROIC",
+				"NPV",
+				"DCF",
+				"Analytics",
+				"Financial Systems",
+				"Balance Sheet / Income Statement / Cashflow Analysis",
+				"Large Investments and Transactions",
+				"Strategic Investments",
+				"Market Analysis",
+				"Market Intelligence",
+				"Negotiation",
+				"FP&A",
+				"Accounting",
+				"Forecasting",
+				"Executive Presentation",
+				"Conference Call Presentation",
+				"Shareholder Presentation",
+				"Executive Reporting",
+				"IFRS",
+				"GAAP",
+				"Excel",
+				"Tableau",
+				"Power BI",
+				"Power Query",
+				"Splunk",
+				"Alteryx",
+				"Python",
+				"Jupyter Notebook",
+				"Visual Basic for Applications",
+				"Script Lab for Office",
+				"Javascript",
+				"SQL",
+				"Azure",
+				"AWS",
+				"Relational Databases",
+				"Oracle",
+				"SAP",
+				"Hyperion",
+				"Essbase",
+				"Crystalball",
+				"Paymentech",
+				"Ayden",
+				"Salesforce",
+				"Marketo"
+			]
+		},
+		"Links": {
+			"Description": "Website Links",
+			"Details": [
+				{
+					"Name": "LinkedIn",
+					"URL": "https://www.linkedin.com/in/yanivalfasy/"
+				},
+				{
+					"Name": "Personal",
+					"URL": "https://www.yanivalfasy.com/"
+				},
+				{
+					"Name": "Github",
+					"URL": "https://www.github.com/superyaniv/"
+				},
+				{
+					"Name": "Angel",
+					"URL": "https://angel.co/u/yanivalfasy"
+				},
+				{
+					"Name": "Personal Library",
+					"URL": "https://www.yanivalfasy.com/books"
+				}
+			]
+		}
+	}
+}

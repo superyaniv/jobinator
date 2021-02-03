@@ -1,0 +1,27 @@
+{
+	"manifest_version": 2,
+	"content_security_policy": "script-src 'self' https://ajax.googleapis.com; object-src 'self'",
+    "name": "Jobinator",
+    "description": "Does the job that recruiters everywhere should be doing.",
+    "version": "1.0",
+    "browser_action": {
+        "default_icon": "images/icon.png",
+        "default_popup": "popup.html"
+    },
+    "permissions": [
+        "activeTab",
+        "<all_urls>"
+	],
+	"storage": {
+		"skill_data": "data/resume.json"
+	 },
+	"web_accessible_resources": [
+		"data/*.json"
+	],
+    "content_scripts": [
+        {
+            "matches": ["http://*/*", "https://*/*"],
+            "js": ["content.js"]
+        }
+    ]
+}
